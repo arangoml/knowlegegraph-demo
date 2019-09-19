@@ -1,0 +1,2 @@
+Knowledge Graph over NLP data:
+It aims at summarizing sentences, documents, or collections to be represented as graph of keywords using ArangoDB. In other words, we can essentially process textual information for extracting the main components and relationships to represent its ordered and the connected version that’s otherwise isolated, distributed and disorganized. Dataset: Wikipedia Data like Movie Plots (link): It contains plot summary descriptions, release date etc. and other metadata of movies scraped from Wikipedia.
